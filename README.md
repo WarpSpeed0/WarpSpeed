@@ -1,12 +1,15 @@
-Introducing WarpSpeed!
+<h1 align="center">Introducing WarpSpeed!</h1>
 
-What IS WarpSpeed?
 
-WarpSpeed is a turbowarp fork I make design to be specifically FOR animators and artists! 
+"But what IS WarpSpeed?"
 
-What's so diferent between WarpSpeed and Turbowarp? Well, here's all the features!:
+WarpSpeed is a turbowarp fork I made specifically FOR animators and artists! 
 
---------------------------------------------------------------------
+"What's so diferent between WarpSpeed and Turbowarp?" 
+
+Well, here's all the features!:
+
+<h2 align="center">--------------------------------------------------------------------</h2>
 
 Each sprite now gets there own layers. You can copy layers, delete layers, hide layers, and lock layers.
 
@@ -19,10 +22,11 @@ You can now choose between ffmpeg and MediaBunny for recording and you can chang
 
 Costume editor now supports pressure for drawing tablets (bitmap and vector)
 
+<h2 align="center">--------------------------------------------------------------------</h2>
+
 Upcoming:
 
 Rigs, you can go into "rig" mode in the costume editor (vector only) there you can snap anchor points of objects together an group them as a "character." Your characters will get saved in the backpack and the project
 
 Being able to change the anchor points on groups/objects in vector
 
-----
